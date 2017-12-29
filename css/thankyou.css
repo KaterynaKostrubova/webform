@@ -1,0 +1,62 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: url("../img/0.png")  no-repeat center center fixed;
+	background-size: cover;
+	font-family: 'Source Code Pro', monospace;
+
+}
+
+.wrapper {
+	
+
+	width: 1030px;
+	height: 600px;
+	background: rgba(204, 204, 204, 0.4) ;
+	margin: 130px auto;
+	border-radius: 10px;
+	font-family: 'Source Code Pro', monospace;
+
+}
+h1{
+	text-align: center;
+	padding:50px;
+	font-size:60px;
+	letter-spacing: 8px;
+	color:#003333;
+	text-transform: uppercase;
+}
+
+h2 {
+	text-transform: uppercase;
+	text-align: center;
+	font-size:40px;
+	letter-spacing: 8px;
+	color: #999933;
+}
+
+img{
+display: block;
+	height: 40%;
+	width: 25%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+.button{
+	display: block;
+	width: 100px;
+	height: 30px;
+	background-color: rgba(255, 255, 255, 0.4);
+	text-align: center;
+	margin:0 auto;
+	border: none;
+    outline:none;
+	text-transform: uppercase;
+	color:#999933;
+
+}
